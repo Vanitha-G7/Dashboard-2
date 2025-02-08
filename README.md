@@ -47,5 +47,3 @@
   16.Quantity:
       The number of units of the product that were ordered. It indicates how much of a particular product was bought in that       transaction.
       
-  17.Feedback?:
-      A column that might indicate whether the customer left feedback or a rating for the product or service. It could be a       "Flase" or "True" or another type of response to capture customer satisfaction.
